@@ -1,0 +1,152 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
+https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_defensor.png" group-title="Entretenimiento",defensor tv
+https://59d39900ebfb8.streamlock.net/Defensor/Defensor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_telefe.png" group-title="Entretenimiento",telefe hd (Opcion 2)
+https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="Entretenimiento",tele estrella (720p)
+https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="Entretenimiento",fat tv
+https://srt.tvdatta.com/faphd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_vostv.png" group-title="BOLIVIA",Vos tv
+https://59d39900ebfb8.streamlock.net:443/vostv/vostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleseis.png" group-title="Bolivia",telefe 6
+https://59d39900ebfb8.streamlock.net:443/tele6/tele6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_aynitv.png" group-title="Entretenimiento",AINA TV
+https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_sigloxxi.png" group-title="Bolivia",red siclo 21 (Opcion 2)
+https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_bolivision.png" group-title="Bolivia",bolivision (720p)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_amitel.png" group-title="Bolivia",amitel tv
+https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_unitel.png" group-title="Bolivia",unitel (Opcion 1)
+https://master.tucableip.com/tvhome/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (720p)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png" group-title="Entretenimiento",Anime 24H
+http://usuarios.club/usuarios/src4/Anime24H/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3
+http://usuarios.club/usuarios/src4/Antena3/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3 (Opcion 2)
+http://usuarios.club/usuarios/src2/ANTENA3/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España",Antena 3 (720p)
+http://usuarios.club/usuarios/src2/ANTENA3/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reNoV/a0a6c77c7c.png" group-title="Brasil",Aparecida Brasil
+http://usuarios.club/usuarios/src4/AparecidaBrasil/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tqWGU/8642e69f30.png" group-title="Noticias",Aristegui Noticias
+http://usuarios.club/usuarios/src4/AristeguiNoticias/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN
+http://usuarios.club/usuarios/src5/AXN/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN (Opcion 2)
+http://usuarios.club/usuarios/src2/AXN_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN (720p)
+http://usuarios.club/usuarios/src2/AXN_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reK1Q/e9a03ded2c.png" group-title="Deportes",AyM Sports
+http://usuarios.club/usuarios/src5/AyMSports/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reKEj/7d9a634b74.png" group-title="Peliculas",Az Cinema
+http://usuarios.club/usuarios/src5/AzCinema/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="Entretenimiento",Az Clic
+http://usuarios.club/usuarios/src5/AzClic/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón
+http://usuarios.club/usuarios/src1/AzCorazon/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (Opcion 2)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="Entretenimiento",Az Corazón (720p)
+http://usuarios.club/usuarios/src2/AZCORAZON_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (Opcion 2)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="Entretenimiento",Az Mundo (720p)
+http://usuarios.club/usuarios/src2/AZMUNDO_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/wcPRU/132561d945.png" group-title="Mexico",Azteca +
+http://usuarios.club/usuarios/src4/AztecaMas/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13
+http://usuarios.club/usuarios/src4/Azteca13/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDm/98e719eba9.png" group-title="Mexico",Azteca 13 Op. 2
+http://usuarios.club/usuarios/src1/Azteca13_2/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7
+http://usuarios.club/usuarios/src1/Azteca7/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7 Op. 2
+http://usuarios.club/usuarios/src4/Azteca7/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLxU/786687775b.png" group-title="Infantiles",Baby TV
+http://usuarios.club/usuarios/src5/BabyTV/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="Musica",Bandamax
+http://usuarios.club/usuarios/src1/Bandamax/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMym/28fb4e2cc5.png" group-title="Entretenimiento",BBC Entertainment
+http://usuarios.club/usuarios/src1/BBCEntertainment/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports
+http://usuarios.club/usuarios/src5/BeinSports/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes",BeinSports 1
+http://usuarios.club/usuarios/src5/Deportes1/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ
+http://usuarios.club/usuarios/src5/BeinSportsN/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes",BeinSports Ñ HD
+http://usuarios.club/usuarios/src5/Bein/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMzt/5760bb9648.png" group-title="Noticias",Bloomberg
+http://usuarios.club/usuarios/src4/Bloomberg/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qah/26ddc7291a.png" group-title="Entretenimiento",Bob Esponja 24/7
+http://usuarios.club/usuarios/src3/BobEsponja/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang
+http://usuarios.club/usuarios/src1/Boomerang/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (Opcion 2)
+http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (720p)
+http://usuarios.club/usuarios/src2/BOOMERANG/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="Entretenimiento",Caballeros del Zodiaco 24/7
+http://usuarios.club/usuarios/src3/CaballerosDelZodiaco/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reNqn/23a93575f2.png" group-title="Colombia",Cali TV
+http://usuarios.club/usuarios/src4/CaliTV/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reNr1/8c97dd3fc3.png" group-title="Nicaragua",Canal 2 Televicentro
+http://usuarios.club/usuarios/src4/Canal2Televicentro/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tv
