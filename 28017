@@ -35,8 +35,8 @@ https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_unitel.png" group-title="Bolivia",unitel (Opcion 1)
 https://master.tucableip.com/tvhome/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (720p)
-http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0/hd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4SSGSOfsLVLv9Gyfc_PZXrBeTvn6GfNi9mTbJi3rQg&s=10" group-title="Deporte",espn (720p)
+http://181.118.158.103:8000/play/a038/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reOH2/342ff546e5.png" group-title="Entretenimiento",Anime 24H
 http://usuarios.club/usuarios/src4/Anime24H/demoUwD/OV0.m3u8
